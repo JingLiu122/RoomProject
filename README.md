@@ -2,7 +2,7 @@
 A simple apartment scene that used Unreal Engine 4 to create it. 
 
 ## Getting Started 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+"These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system."
 
 ### Prerequisites
 To get start on this project is quite simple; all you need is an UE4 engine with the latest verison, to avoid incompatibility error. On mine machine, the engine is [v4.17.2].
