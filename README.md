@@ -10,7 +10,7 @@ To get started on this project is quite simple; all you need is an UE4 engine wi
 ### Installing 
 Since the project files are too large to push into this repo, and Github has the size limited restriction. The actual content of the project can download it on the providing link of Google drive: 
 * For the actual project to load into the engine: https://drive.google.com/file/d/1PUEKSM9095PbSQT9_ewozv7IfPlDHn0K/view?usp=sharing
-* For the running application of the project: https://drive.google.com/file/d/1fwG0DIVTBGt-a04OWF5Lrh0RVuqe3C3n/view?usp=sharing
+* For the running application (.exe) of the project: https://drive.google.com/file/d/1fwG0DIVTBGt-a04OWF5Lrh0RVuqe3C3n/view?usp=sharing
 * Or Youtube video to show around my project: 
 
 ## Acknowledgments 
