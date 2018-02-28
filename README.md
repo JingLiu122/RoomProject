@@ -9,7 +9,7 @@ To get started on this project is quite simple; all you need is an UE4 engine wi
 
 ### Installing 
 Clone or download the project, and then launch the RoomProject.exe file.
-* Youtube video to show around my project: https://www.youtube.com/watch?v=kaIzURkY7BE&t=3s
+* Youtube video to show around my project: https://youtu.be/kaIzURkY7BE
 
 ## Acknowledgments 
 * This project was built for one of the homework assignment from the Udemy course: "Unreal Engine 4: How to Develop Your First Two Games", and instructed by Christopher Murphy.
