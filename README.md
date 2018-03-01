@@ -2,14 +2,14 @@
 A simple apartment scene that used Unreal Engine 4 to create it. 
 
 ## Getting Started 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for testing and gameplaying purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
-To get started on this project is quite simple; all you need is an UE4 engine with the latest version, to avoid incompatibility error. On mine machine, the engine is [v4.17.2].
+This project was package for Windows 64-bit. Better to download and run it on a 64-bit Window OS.
 
 ### Installing 
 Clone or download the project, and then launch the RoomProject.exe file.
-* Youtube video to show around my project: https://youtu.be/kaIzURkY7BE
+* Youtube video to show around the project: https://youtu.be/kaIzURkY7BE
 
 ## Acknowledgments 
 * This project was built for one of the homework assignment from the Udemy course: "Unreal Engine 4: How to Develop Your First Two Games", and instructed by Christopher Murphy.
