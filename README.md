@@ -1,5 +1,5 @@
 # RoomProject
-A simple apartment scene that used Unreal Engine 4 to create it. 
+A simple apartment scene that used powered and rendered by Unreal Engine 4. 
 
 ## Getting Started 
 These instructions will get you a copy of the project up and running on your local machine for testing and gameplaying purposes. See deployment for notes on how to deploy the project on a live system.
