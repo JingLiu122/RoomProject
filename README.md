@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 This project was packaged for Windows 64-bit. Better to download and run it on a 64-bit Windows OS.
 
 ### Installing 
-Clone or download the project, and then launch the RoomProject.exe file.
+Clone or download the project, and then launch the RoomProject.exe file (used Escape key to quit the game).
 * Youtube video to show around the project: https://youtu.be/kaIzURkY7BE
 
 ## Acknowledgments 
