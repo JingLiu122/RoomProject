@@ -5,7 +5,7 @@ A simple apartment scene that used powered and rendered by Unreal Engine 4.
 These instructions will get you a copy of the project up and running on your local machine for testing and gameplaying purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
-This project was package for Windows 64-bit. Better to download and run it on a 64-bit Windows OS.
+This project was packaged for Windows 64-bit. Better to download and run it on a 64-bit Windows OS.
 
 ### Installing 
 Clone or download the project, and then launch the RoomProject.exe file.
