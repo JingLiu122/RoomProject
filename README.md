@@ -1,3 +1,7 @@
+# Result
+* Youtube video to show around the project: <br>
+[![Youtube thumbnail image](http://img.youtube.com/vi/kaIzURkY7BE/0.jpg)](https://youtu.be/kaIzURkY7BE, "Room Project")
+
 # RoomProject
 A simple apartment scene that used powered and rendered by Unreal Engine 4. 
 
@@ -9,7 +13,6 @@ This project was packaged for Windows 64-bit. Better to download and run it on a
 
 ### Installing 
 Clone the project with the git tool, and then launch the RoomProject.exe file (used Escape key to quit the game).
-* Youtube video to show around the project: https://youtu.be/kaIzURkY7BE
 
 ## Acknowledgments 
 * This project was built for one of the homework assignment from the Udemy course: "Unreal Engine 4: How to Develop Your First Two Games", and instructed by Christopher Murphy.
